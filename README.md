@@ -101,10 +101,4 @@ Você aprenderá desde os fundamentos até consultas avançadas, integrando SQL 
 - [📌 Curso Original](https://www.udemy.com/)  
 
 ---
-
-## 📌 Autor
-**Gabriel Cerbaro**  
-🔗 [LinkedIn](https://linkedin.com/in/gabriel-cerbaro-4703b4239)  
-
----
 <p align="center">_"Aprender SQL é dominar os dados. Cada consulta é uma resposta para o futuro."_ 💾</p>
