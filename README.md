@@ -8,7 +8,7 @@
 <!-- Status do Curso -->
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-2024-blue?logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Status-Em%20Andamento-yellow">
+  <img src="https://img.shields.io/badge/Status-Concluído-brightgreen">
   <img src="https://img.shields.io/badge/Aulas-+Horas%20de%20Conteúdo-orange">
   <img src="https://img.shields.io/badge/Projetos%20Reais-Sim-brightgreen">
   <img src="https://img.shields.io/badge/Linguagem-SQL-blue">
@@ -46,10 +46,10 @@
 ---
 
 ## 📌 Descrição do Curso
-Este é um **curso completo e prático** de **Banco de Dados SQL com MySQL**.  
-Você aprenderá desde os fundamentos até consultas avançadas, integrando SQL com **Python** para análise de dados e desenvolvimento de aplicações.
+Este foi um **curso completo e prático** de **Banco de Dados SQL com MySQL**.  
+Nele aprendi desde os fundamentos até consultas avançadas, integrando SQL com **Python** para análise de dados e desenvolvimento de aplicações.
 
-> **Objetivo**: Tornar o aluno capaz de criar, consultar e administrar bancos de dados relacionais, além de aplicar SQL em problemas de negócios e em integrações com sistemas.
+> **Resultado**: Hoje sou capaz de criar, consultar e administrar bancos de dados relacionais, além de aplicar SQL em problemas de negócios e integrações com sistemas.
 
 ---
 
@@ -80,15 +80,15 @@ Você aprenderá desde os fundamentos até consultas avançadas, integrando SQL 
 ---
 
 ## 🧠 Níveis do Curso
-| **Nível**         | **O que você aprende** |
-|--------------------|-------------------------|
+| **Nível**         | **O que foi aprendido** |
+|--------------------|--------------------------|
 | **Iniciante**      | Sintaxe SQL, SELECT, filtros e ordenação |
 | **Intermediário**  | Funções agregadas, JOINs, criação de tabelas |
 | **Avançado**       | Restrições, subconsultas, Python + MySQL |
 
 ---
 
-## 🎯 Objetivos Pessoais
+## 🎯 Objetivos Pessoais Alcançados
 - Dominar os fundamentos e técnicas avançadas de **SQL**  
 - Criar e gerenciar bancos de dados **MySQL**  
 - Aplicar SQL em análise de dados para negócios  
@@ -101,4 +101,4 @@ Você aprenderá desde os fundamentos até consultas avançadas, integrando SQL 
 - [📌 Curso Original](https://www.udemy.com/)  
 
 ---
-<p align="center">_"Aprender SQL é dominar os dados. Cada consulta é uma resposta para o futuro."_ 💾</p>
+<p align="center">_"Aprender SQL foi um passo essencial para dominar dados. Cada consulta é uma resposta para o futuro."_ 💾</p>
